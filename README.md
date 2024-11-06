@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Thomas Decourty
-### A french student in software development
+### A french software developer
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
